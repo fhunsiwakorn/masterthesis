@@ -82,7 +82,7 @@ python-louvain==0.16
 pytz==2021.3
 PyYAML==6.0
 pyzmq==22.3.0
-qasync==0.23.0corn
+qasync==0.23.0
 qtconsole==5.3.0
 QtPy==2.1.0
 requests==2.27.1
