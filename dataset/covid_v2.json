@@ -1,0 +1,6303 @@
+{
+  "RECORDS": [
+    {
+      "id": "1",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "2",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "3",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "4",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "3"
+    },
+    {
+      "id": "5",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "3"
+    },
+    {
+      "id": "6",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "7",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "8",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "9",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "10",
+      "gender": "1",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "11",
+      "gender": "1",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "20",
+      "patient_type": "2"
+    },
+    {
+      "id": "12",
+      "gender": "2",
+      "age_range": "2",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "13",
+      "gender": "2",
+      "age_range": "2",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "3"
+    },
+    {
+      "id": "14",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "15",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "4"
+    },
+    {
+      "id": "16",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "17",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "4"
+    },
+    {
+      "id": "18",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "4"
+    },
+    {
+      "id": "19",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "4"
+    },
+    {
+      "id": "20",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "4"
+    },
+    {
+      "id": "21",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "4"
+    },
+    {
+      "id": "22",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "4"
+    },
+    {
+      "id": "23",
+      "gender": "2",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "24",
+      "gender": "2",
+      "age_range": "6",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "4"
+    },
+    {
+      "id": "25",
+      "gender": "2",
+      "age_range": "7",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "26",
+      "gender": "1",
+      "age_range": "2",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "27",
+      "gender": "1",
+      "age_range": "2",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "28",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "12",
+      "patient_type": "1"
+    },
+    {
+      "id": "29",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "30",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "7",
+      "province": "63",
+      "patient_type": "1"
+    },
+    {
+      "id": "31",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "1"
+    },
+    {
+      "id": "32",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "33",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "34",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "35",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "36",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "37",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "38",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "39",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "20",
+      "patient_type": "2"
+    },
+    {
+      "id": "40",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "41",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "42",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "20",
+      "patient_type": "2"
+    },
+    {
+      "id": "43",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "3"
+    },
+    {
+      "id": "44",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "45",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "46",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "47",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "48",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "12",
+      "patient_type": "1"
+    },
+    {
+      "id": "49",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "50",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "11",
+      "patient_type": "4"
+    },
+    {
+      "id": "51",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "3"
+    },
+    {
+      "id": "52",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "1"
+    },
+    {
+      "id": "53",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "20",
+      "patient_type": "2"
+    },
+    {
+      "id": "54",
+      "gender": "1",
+      "age_range": "7",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "20",
+      "patient_type": "2"
+    },
+    {
+      "id": "55",
+      "gender": "1",
+      "age_range": "8",
+      "nationality_type": "1",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "1"
+    },
+    {
+      "id": "56",
+      "gender": "2",
+      "age_range": "2",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "57",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "1"
+    },
+    {
+      "id": "58",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "59",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "42",
+      "patient_type": "1"
+    },
+    {
+      "id": "60",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "1"
+    },
+    {
+      "id": "61",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "62",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "4",
+      "province": "12",
+      "patient_type": "2"
+    },
+    {
+      "id": "63",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "3"
+    },
+    {
+      "id": "64",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "3"
+    },
+    {
+      "id": "65",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "3"
+    },
+    {
+      "id": "66",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "1"
+    },
+    {
+      "id": "67",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "1"
+    },
+    {
+      "id": "68",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "69",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "70",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "20",
+      "patient_type": "2"
+    },
+    {
+      "id": "71",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "3"
+    },
+    {
+      "id": "72",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "73",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "12",
+      "patient_type": "1"
+    },
+    {
+      "id": "74",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "75",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "76",
+      "gender": "2",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "11",
+      "patient_type": "2"
+    },
+    {
+      "id": "77",
+      "gender": "2",
+      "age_range": "7",
+      "nationality_type": "1",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "1"
+    },
+    {
+      "id": "78",
+      "gender": "2",
+      "age_range": "7",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "20",
+      "patient_type": "2"
+    },
+    {
+      "id": "79",
+      "gender": "2",
+      "age_range": "7",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "12",
+      "patient_type": "2"
+    },
+    {
+      "id": "80",
+      "gender": "2",
+      "age_range": "8",
+      "nationality_type": "1",
+      "risk": "7",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "81",
+      "gender": "2",
+      "age_range": "8",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "11",
+      "patient_type": "4"
+    },
+    {
+      "id": "82",
+      "gender": "2",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "1"
+    },
+    {
+      "id": "83",
+      "gender": "1",
+      "age_range": "2",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "73",
+      "patient_type": "1"
+    },
+    {
+      "id": "84",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "1"
+    },
+    {
+      "id": "85",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "86",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "87",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "88",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "89",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "90",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "7",
+      "province": "96",
+      "patient_type": "1"
+    },
+    {
+      "id": "91",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "73",
+      "patient_type": "4"
+    },
+    {
+      "id": "92",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "3"
+    },
+    {
+      "id": "93",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "3"
+    },
+    {
+      "id": "94",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "95",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "96",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "97",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "98",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "72",
+      "patient_type": "1"
+    },
+    {
+      "id": "99",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "72",
+      "patient_type": "1"
+    },
+    {
+      "id": "100",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "72",
+      "patient_type": "1"
+    },
+    {
+      "id": "101",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "72",
+      "patient_type": "1"
+    },
+    {
+      "id": "102",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "72",
+      "patient_type": "1"
+    },
+    {
+      "id": "103",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "95",
+      "patient_type": "2"
+    },
+    {
+      "id": "104",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "105",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "106",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "4",
+      "province": "13",
+      "patient_type": "2"
+    },
+    {
+      "id": "107",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "3"
+    },
+    {
+      "id": "108",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "2",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "109",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "2",
+      "risk": "10",
+      "province": "20",
+      "patient_type": "1"
+    },
+    {
+      "id": "110",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "111",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "112",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "2",
+      "risk": "4",
+      "province": "13",
+      "patient_type": "2"
+    },
+    {
+      "id": "113",
+      "gender": "1",
+      "age_range": "7",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "114",
+      "gender": "1",
+      "age_range": "7",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "11",
+      "patient_type": "4"
+    },
+    {
+      "id": "115",
+      "gender": "2",
+      "age_range": "2",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "116",
+      "gender": "2",
+      "age_range": "2",
+      "nationality_type": "2",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "117",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "118",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "119",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "73",
+      "patient_type": "1"
+    },
+    {
+      "id": "120",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "73",
+      "patient_type": "1"
+    },
+    {
+      "id": "121",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "122",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "123",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "124",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "125",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "126",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "12",
+      "patient_type": "1"
+    },
+    {
+      "id": "127",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "12",
+      "patient_type": "1"
+    },
+    {
+      "id": "128",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "12",
+      "patient_type": "1"
+    },
+    {
+      "id": "129",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "72",
+      "patient_type": "1"
+    },
+    {
+      "id": "130",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "72",
+      "patient_type": "1"
+    },
+    {
+      "id": "131",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "72",
+      "patient_type": "1"
+    },
+    {
+      "id": "132",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "133",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "134",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "4",
+      "province": "13",
+      "patient_type": "2"
+    },
+    {
+      "id": "135",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "7",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "136",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "3"
+    },
+    {
+      "id": "137",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "3"
+    },
+    {
+      "id": "138",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "139",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "140",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "141",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "142",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "143",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "72",
+      "patient_type": "1"
+    },
+    {
+      "id": "144",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "145",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "95",
+      "patient_type": "2"
+    },
+    {
+      "id": "146",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "4"
+    },
+    {
+      "id": "147",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "4"
+    },
+    {
+      "id": "148",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "4"
+    },
+    {
+      "id": "149",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "4"
+    },
+    {
+      "id": "150",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "3"
+    },
+    {
+      "id": "151",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "3"
+    },
+    {
+      "id": "152",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "3"
+    },
+    {
+      "id": "153",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "3"
+    },
+    {
+      "id": "154",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "3"
+    },
+    {
+      "id": "155",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "156",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "63",
+      "patient_type": "1"
+    },
+    {
+      "id": "157",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "12",
+      "patient_type": "1"
+    },
+    {
+      "id": "158",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "11",
+      "patient_type": "2"
+    },
+    {
+      "id": "159",
+      "gender": "2",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "160",
+      "gender": "2",
+      "age_range": "7",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "11",
+      "patient_type": "4"
+    },
+    {
+      "id": "161",
+      "gender": "2",
+      "age_range": "7",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "162",
+      "gender": "2",
+      "age_range": "8",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "73",
+      "patient_type": "1"
+    },
+    {
+      "id": "163",
+      "gender": "2",
+      "age_range": "8",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "11",
+      "patient_type": "4"
+    },
+    {
+      "id": "164",
+      "gender": "2",
+      "age_range": "8",
+      "nationality_type": "1",
+      "risk": "7",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "165",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "11",
+      "patient_type": "4"
+    },
+    {
+      "id": "166",
+      "gender": "2",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "167",
+      "gender": "1",
+      "age_range": "2",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "73",
+      "patient_type": "1"
+    },
+    {
+      "id": "168",
+      "gender": "1",
+      "age_range": "2",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "169",
+      "gender": "1",
+      "age_range": "2",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "13",
+      "patient_type": "1"
+    },
+    {
+      "id": "170",
+      "gender": "1",
+      "age_range": "2",
+      "nationality_type": "2",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "171",
+      "gender": "1",
+      "age_range": "2",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "3"
+    },
+    {
+      "id": "172",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "173",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "174",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "40",
+      "patient_type": "1"
+    },
+    {
+      "id": "175",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "176",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "177",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "178",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "20",
+      "patient_type": "1"
+    },
+    {
+      "id": "179",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "72",
+      "patient_type": "1"
+    },
+    {
+      "id": "180",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "72",
+      "patient_type": "1"
+    },
+    {
+      "id": "181",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "84",
+      "patient_type": "1"
+    },
+    {
+      "id": "182",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "84",
+      "patient_type": "1"
+    },
+    {
+      "id": "183",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "84",
+      "patient_type": "1"
+    },
+    {
+      "id": "184",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "185",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "7",
+      "province": "40",
+      "patient_type": "1"
+    },
+    {
+      "id": "186",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "187",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "7",
+      "province": "10",
+      "patient_type": "3"
+    },
+    {
+      "id": "188",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "1"
+    },
+    {
+      "id": "189",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "190",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "191",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "192",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "193",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "20",
+      "patient_type": "1"
+    },
+    {
+      "id": "194",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "20",
+      "patient_type": "1"
+    },
+    {
+      "id": "195",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "20",
+      "patient_type": "1"
+    },
+    {
+      "id": "196",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "72",
+      "patient_type": "1"
+    },
+    {
+      "id": "197",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "84",
+      "patient_type": "1"
+    },
+    {
+      "id": "198",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "84",
+      "patient_type": "1"
+    },
+    {
+      "id": "199",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "95",
+      "patient_type": "2"
+    },
+    {
+      "id": "200",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "3"
+    },
+    {
+      "id": "201",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "10",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "202",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "2",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "203",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "84",
+      "patient_type": "1"
+    },
+    {
+      "id": "204",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "205",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "2",
+      "risk": "4",
+      "province": "20",
+      "patient_type": "2"
+    },
+    {
+      "id": "206",
+      "gender": "1",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "20",
+      "patient_type": "1"
+    },
+    {
+      "id": "207",
+      "gender": "1",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "95",
+      "patient_type": "2"
+    },
+    {
+      "id": "208",
+      "gender": "1",
+      "age_range": "6",
+      "nationality_type": "2",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "209",
+      "gender": "1",
+      "age_range": "7",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "1"
+    },
+    {
+      "id": "210",
+      "gender": "1",
+      "age_range": "7",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "211",
+      "gender": "1",
+      "age_range": "1",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "20",
+      "patient_type": "1"
+    },
+    {
+      "id": "212",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "1"
+    },
+    {
+      "id": "213",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "1"
+    },
+    {
+      "id": "214",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "215",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "216",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "217",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "7",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "218",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "14",
+      "patient_type": "1"
+    },
+    {
+      "id": "219",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "1"
+    },
+    {
+      "id": "220",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "221",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "222",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "223",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "224",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "12",
+      "patient_type": "1"
+    },
+    {
+      "id": "225",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "226",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "227",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "228",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "229",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "230",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "20",
+      "patient_type": "1"
+    },
+    {
+      "id": "231",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "232",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "72",
+      "patient_type": "1"
+    },
+    {
+      "id": "233",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "7",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "234",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "11",
+      "patient_type": "4"
+    },
+    {
+      "id": "235",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "3"
+    },
+    {
+      "id": "236",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "237",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "238",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "239",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "240",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "241",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "242",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "243",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "12",
+      "patient_type": "1"
+    },
+    {
+      "id": "244",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "245",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "4"
+    },
+    {
+      "id": "246",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "4"
+    },
+    {
+      "id": "247",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "4"
+    },
+    {
+      "id": "248",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "4"
+    },
+    {
+      "id": "249",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "6",
+      "province": "10",
+      "patient_type": "3"
+    },
+    {
+      "id": "250",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "10",
+      "province": "10",
+      "patient_type": "3"
+    },
+    {
+      "id": "251",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "2",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "252",
+      "gender": "2",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "72",
+      "patient_type": "1"
+    },
+    {
+      "id": "253",
+      "gender": "2",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "41",
+      "patient_type": "3"
+    },
+    {
+      "id": "254",
+      "gender": "2",
+      "age_range": "7",
+      "nationality_type": "1",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "1"
+    },
+    {
+      "id": "255",
+      "gender": "2",
+      "age_range": "7",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "11",
+      "patient_type": "4"
+    },
+    {
+      "id": "256",
+      "gender": "2",
+      "age_range": "8",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "257",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "11",
+      "patient_type": "4"
+    },
+    {
+      "id": "258",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "11",
+      "patient_type": "4"
+    },
+    {
+      "id": "259",
+      "gender": "2",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "1"
+    },
+    {
+      "id": "260",
+      "gender": "2",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "73",
+      "patient_type": "1"
+    },
+    {
+      "id": "261",
+      "gender": "2",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "73",
+      "patient_type": "1"
+    },
+    {
+      "id": "262",
+      "gender": "1",
+      "age_range": "2",
+      "nationality_type": "1",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "1"
+    },
+    {
+      "id": "263",
+      "gender": "1",
+      "age_range": "2",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "264",
+      "gender": "1",
+      "age_range": "2",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "265",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "1"
+    },
+    {
+      "id": "266",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "267",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "268",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "269",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "77",
+      "patient_type": "1"
+    },
+    {
+      "id": "270",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "72",
+      "patient_type": "1"
+    },
+    {
+      "id": "271",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "272",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "273",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "274",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "275",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "276",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "277",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "278",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "279",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "280",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "281",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "282",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "283",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "284",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "285",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "286",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "287",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "288",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "289",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "290",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "291",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "292",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "293",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "294",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "295",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "296",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "297",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "298",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "3"
+    },
+    {
+      "id": "299",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "11",
+      "patient_type": "3"
+    },
+    {
+      "id": "300",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "1"
+    },
+    {
+      "id": "301",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "302",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "303",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "12",
+      "patient_type": "1"
+    },
+    {
+      "id": "304",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "305",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "306",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "307",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "75",
+      "patient_type": "1"
+    },
+    {
+      "id": "308",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "309",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "310",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "20",
+      "patient_type": "1"
+    },
+    {
+      "id": "311",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "72",
+      "patient_type": "1"
+    },
+    {
+      "id": "312",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "72",
+      "patient_type": "1"
+    },
+    {
+      "id": "313",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "314",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "315",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "316",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "317",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "318",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "319",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "320",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "321",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "322",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "323",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "324",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "325",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "326",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "327",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "328",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "329",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "330",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "331",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "332",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "333",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "334",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "335",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "336",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "337",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "338",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "339",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "340",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "11",
+      "patient_type": "3"
+    },
+    {
+      "id": "341",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "3"
+    },
+    {
+      "id": "342",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "86",
+      "patient_type": "1"
+    },
+    {
+      "id": "343",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "86",
+      "patient_type": "1"
+    },
+    {
+      "id": "344",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "27",
+      "patient_type": "1"
+    },
+    {
+      "id": "345",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "20",
+      "patient_type": "1"
+    },
+    {
+      "id": "346",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "2",
+      "risk": "3",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "347",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "348",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "349",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "350",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "20",
+      "patient_type": "1"
+    },
+    {
+      "id": "351",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "20",
+      "patient_type": "1"
+    },
+    {
+      "id": "352",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "2",
+      "risk": "4",
+      "province": "11",
+      "patient_type": "2"
+    },
+    {
+      "id": "353",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "354",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "355",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "356",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "357",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "358",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "359",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "360",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "361",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "362",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "363",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "364",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "365",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "366",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "367",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "368",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "369",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "370",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "371",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "372",
+      "gender": "1",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "13",
+      "patient_type": "1"
+    },
+    {
+      "id": "373",
+      "gender": "1",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "374",
+      "gender": "1",
+      "age_range": "6",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "20",
+      "patient_type": "1"
+    },
+    {
+      "id": "375",
+      "gender": "1",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "36",
+      "patient_type": "1"
+    },
+    {
+      "id": "376",
+      "gender": "1",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "377",
+      "gender": "1",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "378",
+      "gender": "1",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "379",
+      "gender": "1",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "380",
+      "gender": "1",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "381",
+      "gender": "1",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "382",
+      "gender": "1",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "383",
+      "gender": "1",
+      "age_range": "6",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "384",
+      "gender": "1",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "385",
+      "gender": "1",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "386",
+      "gender": "1",
+      "age_range": "7",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "387",
+      "gender": "1",
+      "age_range": "7",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "20",
+      "patient_type": "1"
+    },
+    {
+      "id": "388",
+      "gender": "1",
+      "age_range": "7",
+      "nationality_type": "2",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "389",
+      "gender": "1",
+      "age_range": "1",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "390",
+      "gender": "1",
+      "age_range": "8",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "391",
+      "gender": "2",
+      "age_range": "2",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "13",
+      "patient_type": "4"
+    },
+    {
+      "id": "392",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "393",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "394",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "395",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "396",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "7",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "397",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "398",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "77",
+      "patient_type": "1"
+    },
+    {
+      "id": "399",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "400",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "401",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "402",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "403",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "404",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "405",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "20",
+      "patient_type": "1"
+    },
+    {
+      "id": "406",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "407",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "72",
+      "patient_type": "1"
+    },
+    {
+      "id": "408",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "409",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "410",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "72",
+      "patient_type": "1"
+    },
+    {
+      "id": "411",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "11",
+      "patient_type": "3"
+    },
+    {
+      "id": "412",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "3"
+    },
+    {
+      "id": "413",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "1"
+    },
+    {
+      "id": "414",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "96",
+      "patient_type": "1"
+    },
+    {
+      "id": "415",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "416",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "417",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "418",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "12",
+      "patient_type": "1"
+    },
+    {
+      "id": "419",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "72",
+      "patient_type": "1"
+    },
+    {
+      "id": "420",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "20",
+      "patient_type": "2"
+    },
+    {
+      "id": "421",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "95",
+      "patient_type": "2"
+    },
+    {
+      "id": "422",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "423",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "424",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "425",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "426",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "427",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "3"
+    },
+    {
+      "id": "428",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "3"
+    },
+    {
+      "id": "429",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "63",
+      "patient_type": "1"
+    },
+    {
+      "id": "430",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "12",
+      "patient_type": "1"
+    },
+    {
+      "id": "431",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "72",
+      "patient_type": "1"
+    },
+    {
+      "id": "432",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "2",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "433",
+      "gender": "2",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "36",
+      "patient_type": "1"
+    },
+    {
+      "id": "434",
+      "gender": "2",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "12",
+      "patient_type": "1"
+    },
+    {
+      "id": "435",
+      "gender": "2",
+      "age_range": "7",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "436",
+      "gender": "2",
+      "age_range": "7",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "437",
+      "gender": "2",
+      "age_range": "1",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "438",
+      "gender": "2",
+      "age_range": "1",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "439",
+      "gender": "2",
+      "age_range": "1",
+      "nationality_type": "2",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "440",
+      "gender": "2",
+      "age_range": "1",
+      "nationality_type": "2",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "3"
+    },
+    {
+      "id": "441",
+      "gender": "2",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "8",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "442",
+      "gender": "2",
+      "age_range": "6",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "443",
+      "gender": "2",
+      "age_range": "6",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "444",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "445",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "446",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "447",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "448",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "449",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "20",
+      "patient_type": "1"
+    },
+    {
+      "id": "450",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "20",
+      "patient_type": "1"
+    },
+    {
+      "id": "451",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "452",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "453",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "454",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "455",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "456",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "457",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "458",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "459",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "460",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "461",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "462",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "463",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "464",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "20",
+      "patient_type": "4"
+    },
+    {
+      "id": "465",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "466",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "467",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "468",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "3"
+    },
+    {
+      "id": "469",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "3"
+    },
+    {
+      "id": "470",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "11",
+      "patient_type": "3"
+    },
+    {
+      "id": "471",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "50",
+      "patient_type": "3"
+    },
+    {
+      "id": "472",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "473",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "474",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "63",
+      "patient_type": "1"
+    },
+    {
+      "id": "475",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "476",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "477",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "12",
+      "patient_type": "1"
+    },
+    {
+      "id": "478",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "479",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "50",
+      "patient_type": "1"
+    },
+    {
+      "id": "480",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "4",
+      "province": "11",
+      "patient_type": "2"
+    },
+    {
+      "id": "481",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "482",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "483",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "484",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "485",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "486",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "487",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "488",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "489",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "490",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "491",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "492",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "493",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "494",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "495",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "496",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "497",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "498",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "20",
+      "patient_type": "4"
+    },
+    {
+      "id": "499",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "500",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "501",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "502",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "503",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "3"
+    },
+    {
+      "id": "504",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "3"
+    },
+    {
+      "id": "505",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "3"
+    },
+    {
+      "id": "506",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "11",
+      "patient_type": "3"
+    },
+    {
+      "id": "507",
+      "gender": "1",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "71",
+      "patient_type": "3"
+    },
+    {
+      "id": "508",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "2",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "509",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "510",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "511",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "512",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "513",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "2",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "514",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "515",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "516",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "20",
+      "patient_type": "1"
+    },
+    {
+      "id": "517",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "36",
+      "patient_type": "1"
+    },
+    {
+      "id": "518",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "73",
+      "patient_type": "1"
+    },
+    {
+      "id": "519",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "520",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "521",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "20",
+      "patient_type": "2"
+    },
+    {
+      "id": "522",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "523",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "524",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "525",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "526",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "527",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "528",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "20",
+      "patient_type": "4"
+    },
+    {
+      "id": "529",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "530",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "531",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "532",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "533",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "534",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "535",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "536",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "537",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "538",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "11",
+      "patient_type": "4"
+    },
+    {
+      "id": "539",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "27",
+      "patient_type": "4"
+    },
+    {
+      "id": "540",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "10",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "541",
+      "gender": "1",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "11",
+      "patient_type": "3"
+    },
+    {
+      "id": "542",
+      "gender": "1",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "20",
+      "patient_type": "1"
+    },
+    {
+      "id": "543",
+      "gender": "1",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "544",
+      "gender": "1",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "545",
+      "gender": "1",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "546",
+      "gender": "1",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "547",
+      "gender": "1",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "548",
+      "gender": "1",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "549",
+      "gender": "1",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "550",
+      "gender": "1",
+      "age_range": "6",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "551",
+      "gender": "1",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "552",
+      "gender": "1",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "10",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "553",
+      "gender": "1",
+      "age_range": "1",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "554",
+      "gender": "1",
+      "age_range": "1",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "20",
+      "patient_type": "1"
+    },
+    {
+      "id": "555",
+      "gender": "2",
+      "age_range": "2",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "556",
+      "gender": "2",
+      "age_range": "2",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "20",
+      "patient_type": "1"
+    },
+    {
+      "id": "557",
+      "gender": "2",
+      "age_range": "2",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "3"
+    },
+    {
+      "id": "558",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "559",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "560",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "561",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "562",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "563",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "564",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "565",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "566",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "567",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "20",
+      "patient_type": "1"
+    },
+    {
+      "id": "568",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "569",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "570",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "571",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "572",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "573",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "20",
+      "patient_type": "1"
+    },
+    {
+      "id": "574",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "20",
+      "patient_type": "1"
+    },
+    {
+      "id": "575",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "20",
+      "patient_type": "1"
+    },
+    {
+      "id": "576",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "20",
+      "patient_type": "1"
+    },
+    {
+      "id": "577",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "578",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "579",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "580",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "581",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "582",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "583",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "584",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "585",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "586",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "587",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "588",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "589",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "590",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "591",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "592",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "593",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "594",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "595",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "596",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "597",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "598",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "599",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "600",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "601",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "602",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "603",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "604",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "605",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "606",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "607",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "608",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "609",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "610",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "611",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "612",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "613",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "614",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "615",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "616",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "617",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "618",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "619",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "620",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "621",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "622",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "623",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "624",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "3"
+    },
+    {
+      "id": "625",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "3"
+    },
+    {
+      "id": "626",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "2",
+      "province": "74",
+      "patient_type": "3"
+    },
+    {
+      "id": "627",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "16",
+      "patient_type": "3"
+    },
+    {
+      "id": "628",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "11",
+      "patient_type": "3"
+    },
+    {
+      "id": "629",
+      "gender": "2",
+      "age_range": "3",
+      "nationality_type": "2",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "3"
+    },
+    {
+      "id": "630",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "631",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "632",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "633",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "634",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "20",
+      "patient_type": "1"
+    },
+    {
+      "id": "635",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "14",
+      "patient_type": "1"
+    },
+    {
+      "id": "636",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "637",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "20",
+      "patient_type": "2"
+    },
+    {
+      "id": "638",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "639",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "640",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "641",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "642",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "643",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "644",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "645",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "646",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "647",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "648",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "649",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "650",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "651",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "652",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "653",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "654",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "655",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "656",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "657",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "658",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "659",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "660",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "661",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "27",
+      "patient_type": "4"
+    },
+    {
+      "id": "662",
+      "gender": "2",
+      "age_range": "4",
+      "nationality_type": "1",
+      "risk": "6",
+      "province": "13",
+      "patient_type": "3"
+    },
+    {
+      "id": "663",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "664",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "10",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "665",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "666",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "20",
+      "patient_type": "1"
+    },
+    {
+      "id": "667",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "20",
+      "patient_type": "1"
+    },
+    {
+      "id": "668",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "2",
+      "risk": "3",
+      "province": "13",
+      "patient_type": "1"
+    },
+    {
+      "id": "669",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "20",
+      "patient_type": "2"
+    },
+    {
+      "id": "670",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "671",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "672",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "673",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "674",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "675",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "676",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "677",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "678",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "679",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "680",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "681",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "682",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "683",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "684",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "685",
+      "gender": "2",
+      "age_range": "5",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "686",
+      "gender": "2",
+      "age_range": "6",
+      "nationality_type": "2",
+      "risk": "9",
+      "province": "20",
+      "patient_type": "1"
+    },
+    {
+      "id": "687",
+      "gender": "2",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "25",
+      "patient_type": "1"
+    },
+    {
+      "id": "688",
+      "gender": "2",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "689",
+      "gender": "2",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "690",
+      "gender": "2",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "691",
+      "gender": "2",
+      "age_range": "6",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "96",
+      "patient_type": "4"
+    },
+    {
+      "id": "692",
+      "gender": "2",
+      "age_range": "7",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "10",
+      "patient_type": "1"
+    },
+    {
+      "id": "693",
+      "gender": "2",
+      "age_range": "7",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "694",
+      "gender": "1",
+      "age_range": "2",
+      "nationality_type": "1",
+      "risk": "9",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "695",
+      "gender": "1",
+      "age_range": "2",
+      "nationality_type": "1",
+      "risk": "4",
+      "province": "10",
+      "patient_type": "2"
+    },
+    {
+      "id": "696",
+      "gender": "1",
+      "age_range": "2",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "697",
+      "gender": "1",
+      "age_range": "2",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "698",
+      "gender": "1",
+      "age_range": "2",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "10",
+      "patient_type": "4"
+    },
+    {
+      "id": "699",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "3",
+      "province": "11",
+      "patient_type": "1"
+    },
+    {
+      "id": "700",
+      "gender": "1",
+      "age_range": "3",
+      "nationality_type": "1",
+      "risk": "10",
+      "province": "21",
+      "patient_type": "1"
+    }]
+}
